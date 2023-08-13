@@ -5,7 +5,7 @@ import imutils
 import cv2
 import numpy as np
 
-AREA_THRESHOLD = 10
+AREA_THRESHOLD = 600
 
 """
 cmp_imgs(imageA_path,imageB_path)
